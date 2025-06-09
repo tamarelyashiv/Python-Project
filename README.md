@@ -1,4 +1,4 @@
-# Hangman Game - E2E Project🎮
+# 🎮Hangman Game - E2E Project
 
 ## Overview
 This is a Hangman game where users must log in or register to play.  
